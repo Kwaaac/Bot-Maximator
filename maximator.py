@@ -32,7 +32,7 @@ async def on_message(message):
             await channel.send(msg)
 
         if message.content.startswith("!mgit"):
-            await channel.send("https://github.com/Kwaaac/dbd-memes")
+            await channel.send("https://github.com/Kwaaac/Bot-Maximator")
 
 
 
